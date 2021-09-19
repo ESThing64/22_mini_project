@@ -1,0 +1,20 @@
+
+
+.flex-row{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    /* justify-content: center;  */
+    /* is this right? */
+  
+
+}
+
+.card-collumn{
+    /* display: flex; */
+    /* flex-direction: column; */
+    flex: 0 0 33%;
+    max-width: 33%;
+
+}
